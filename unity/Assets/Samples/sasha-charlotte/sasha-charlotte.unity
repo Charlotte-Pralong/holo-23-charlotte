@@ -507,11 +507,29 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4572524d689d8b45892270eab9bc101, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &548152439 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5454559056625408755, guid: e159f75c472f5b543a5c29ee6e96586e, type: 3}
+  m_PrefabInstance: {fileID: 5454559057155210884}
+  m_PrefabAsset: {fileID: 0}
 --- !u!95 &548152440 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 5454559056625408764, guid: e159f75c472f5b543a5c29ee6e96586e, type: 3}
   m_PrefabInstance: {fileID: 5454559057155210884}
   m_PrefabAsset: {fileID: 0}
+--- !u!65 &548152442
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 548152439}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 2.2, z: 0.76}
+  m_Center: {x: 0, y: 0.49, z: 0}
 --- !u!1 &660438154
 GameObject:
   m_ObjectHideFlags: 0
